@@ -24,7 +24,7 @@ Upcoming Features:
 ## How to Run 🛠️
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/Mohanty-Hitesh-4495/Crop-Recommendation-System.git
+git clone https://github.com/SubhamKhandual007/crop-recommendation/tree/main/Crop-Recommendation-System
 ```
 #### 2. Install the required dependencies from requirements.txt.
 ```bash
