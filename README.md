@@ -10,8 +10,7 @@ FarmSathi integrates advanced machine learning models to deliver the following f
 - Disease Detection: Identifies crop diseases from images and suggests remedies.
 - Data Insights: Visualizes soil and crop data trends for better decision-making.
 
-## Development Progress 🚧
-FarmSathi is currently under development, and the following features have been implemented:
+Crop development:-
 
 - Crop and fertilizer recommendation models.
 - Streamlit-based web application for easy user interaction.
